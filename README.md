@@ -17,7 +17,7 @@ The copyright holders of this work are:
 - Suzana Todorovska, Phylological Faculty, UKIM, Macedonia
 - Veselinka Labroska, Institute of Macedonian language "Krste Misirkov" - Skopje, Macedonia
 - Kristijan Lazarev and Toni Bachvarovski, Association for Assistive Technologies "Open the Windows", Skopje, Macedonia
-- Zvonimir Stanečić, RHVoice
+- Zvonimir Stanečić, RHVoice project contributor
 
 ## Contact
 
