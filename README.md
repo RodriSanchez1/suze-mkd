@@ -6,7 +6,7 @@ The voice of Suzana Todorovska, student at the Phylological Faculty, UKIM, was r
 
 ## License
 
-The work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). For different licensing options, please contact the team. 
+The work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). 
 
 ## Copyright
 
