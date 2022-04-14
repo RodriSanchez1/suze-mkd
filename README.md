@@ -10,8 +10,11 @@ The work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeriv
 
 ## Copyright
 
-The copyright holders of this work are:
+The copyright for the Suze - Macedonian female voice for RHVoice belongs to [UNICEF](https://www.unicef.org). 
 
+## The team
+
+These are the members of the team that helped bring `suze` to life: 
 - Bojan Sofronievski, Elena Velovska, Martin Velichkovski, Violeta Argirova, Tea Veljkovikj, Risto Chavdarov, Zoran Ivanovski, Dimitar Tashkovski, and Branislav Gerazov, Speech Group @ FEEIT and FEEIT, UKIM, Macedonia
 - Stefan Janev, Melon Inc., Skopje, Macedonia
 - Suzana Todorovska, Phylological Faculty, UKIM, Macedonia
